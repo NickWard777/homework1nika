@@ -1,0 +1,52 @@
+p{
+	font-size:35px;
+	font-style:italic;
+}
+.calc{
+	color:blue;
+	border:3px dashed gold;
+	margin:0 200px;
+	text-align:center;
+}
+.fmath{
+	color:red;
+	border:3px ridge #7FFF00;
+	margin:0 300px;
+	text-align:center;
+}
+.prob{
+	color:yellow;
+	border:3px groove #FF6347;
+	margin:0 400px;
+	text-align:center;
+}
+#topics{
+	background-color:darkmagenta;
+}
+.container-fluid{
+	background-color:lightblue;
+	color:black;
+	font-style:italic;
+}
+#imgs{
+	background-color:#00FFFF;
+}
+.img1{
+	width:100%;
+}
+.img2{
+	width:307px;
+	width:100%;
+}
+.nav{
+	display:inline-block;
+}
+.logorejects{
+	width:80px;
+}
+.logo{
+	display:inline-block;
+}
+.navigation{
+	display:inline-block;
+}
